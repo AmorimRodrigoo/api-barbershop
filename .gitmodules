@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:AmorimRodrigoo/barber-shop-ui-api.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:AmorimRodrigoo/barber-shop-ui.git
